@@ -4,4 +4,4 @@
 - 👻 estudando HTML, CSS e JAVASCRIPT
 - 🤖 pronouns: ele/dele
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-Saymon&show_icons=true&theme=radical)

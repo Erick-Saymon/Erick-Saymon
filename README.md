@@ -1,3 +1,3 @@
-## Bem-vindo(a) ao perfil do Erick Saymon😁
+## Olá! Eu sou o Erick Saymon
 
 

@@ -4,4 +4,4 @@
 - 👻 estudando HTML, CSS e JAVASCRIPT
 - 🤖 pronouns: ele/dele
 
--  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
